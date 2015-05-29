@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "app-name": "dashboard",
+    "architecture": "flux",
+    "styles-language": "scss"
+  }
+}
